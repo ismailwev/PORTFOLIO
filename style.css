@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px ;
+}
+.name{
+    color: orangered;
+}
+.half-width{ margin-left: 5%;
+    padding-left:2%; 
+    padding-top: 55px;
+    width: 40%;
+    float: left;
+}
+img {
+    width:450px ;
+    margin-left:140px;
+  }
+.top-banner{
+    background-image: url(top-banner.png);
+background-repeat:no-repeat;
+   
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.for{
+    text-decoration: none;
+    color: rgb(208, 225, 241);
+    border: 5px solid transparent ;
+    border-radius:  20px;
+    background-image: radial-gradient(#022433,#7784eb),
+    radial-gradient(circle at top left,#fd00da,#19d7f8 );
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-weight: 700;
+
+}
+.for span{
+
+    padding:30px; }
+
+.mR{
+margin-left:10px;
+
+}
+.dream-area{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right ;
+}
